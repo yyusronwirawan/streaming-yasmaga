@@ -1,0 +1,155 @@
+{
+  "_dialog-b10a86f8.js": {
+    "file": "assets/dialog-b10a86f8.js",
+    "imports": [
+      "resources/js/src/main.tsx"
+    ]
+  },
+  "_index-8e00322f.js": {
+    "file": "assets/index-8e00322f.js",
+    "imports": [
+      "resources/js/src/main.tsx"
+    ]
+  },
+  "resources/js/src/assets/content.webp": {
+    "file": "assets/content-12bd54e3.webp",
+    "src": "resources/js/src/assets/content.webp"
+  },
+  "resources/js/src/assets/logo_prosehat.jpeg": {
+    "file": "assets/logo_prosehat-58cbd4c8.jpeg",
+    "src": "resources/js/src/assets/logo_prosehat.jpeg"
+  },
+  "resources/js/src/assets/news.svg": {
+    "file": "assets/news-e6704623.svg",
+    "src": "resources/js/src/assets/news.svg"
+  },
+  "resources/js/src/assets/yasmaga_1.png": {
+    "file": "assets/yasmaga_1-6220fcb7.png",
+    "src": "resources/js/src/assets/yasmaga_1.png"
+  },
+  "resources/js/src/components/TempAdminContent.tsx": {
+    "file": "assets/TempAdminContent-4e9fabe2.js",
+    "imports": [
+      "resources/js/src/main.tsx",
+      "_index-8e00322f.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/components/TempAdminContent.tsx"
+  },
+  "resources/js/src/main.css": {
+    "file": "assets/main-31a0329a.css",
+    "src": "resources/js/src/main.css"
+  },
+  "resources/js/src/main.tsx": {
+    "css": [
+      "assets/main-31a0329a.css"
+    ],
+    "dynamicImports": [
+      "resources/js/src/pages/Promo.tsx",
+      "resources/js/src/components/TempAdminContent.tsx",
+      "resources/js/src/pages/DashboardUser.tsx",
+      "resources/js/src/pages/DashboardAdmin.tsx",
+      "resources/js/src/pages/User.tsx",
+      "resources/js/src/pages/Schedule.tsx",
+      "resources/js/src/pages/AdminContent.tsx",
+      "resources/js/src/pages/Login.tsx",
+      "resources/js/src/pages/Profile.tsx",
+      "resources/js/src/pages/ErrorPage.tsx"
+    ],
+    "file": "assets/main-0ef92fc4.js",
+    "isEntry": true,
+    "src": "resources/js/src/main.tsx"
+  },
+  "resources/js/src/pages/AdminContent.tsx": {
+    "file": "assets/AdminContent-6317c020.js",
+    "imports": [
+      "resources/js/src/main.tsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/AdminContent.tsx"
+  },
+  "resources/js/src/pages/DashboardAdmin.tsx": {
+    "file": "assets/DashboardAdmin-ff9e94eb.js",
+    "imports": [
+      "resources/js/src/main.tsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/DashboardAdmin.tsx"
+  },
+  "resources/js/src/pages/DashboardUser.css": {
+    "file": "assets/DashboardUser-794dbf49.css",
+    "src": "resources/js/src/pages/DashboardUser.css"
+  },
+  "resources/js/src/pages/DashboardUser.tsx": {
+    "assets": [
+      "assets/content-12bd54e3.webp",
+      "assets/news-e6704623.svg",
+      "assets/yasmaga_1-6220fcb7.png",
+      "assets/logo_prosehat-58cbd4c8.jpeg"
+    ],
+    "css": [
+      "assets/DashboardUser-794dbf49.css"
+    ],
+    "file": "assets/DashboardUser-de25aae7.js",
+    "imports": [
+      "resources/js/src/main.tsx",
+      "_index-8e00322f.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/DashboardUser.tsx"
+  },
+  "resources/js/src/pages/ErrorPage.tsx": {
+    "file": "assets/ErrorPage-699e2724.js",
+    "imports": [
+      "resources/js/src/main.tsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/ErrorPage.tsx"
+  },
+  "resources/js/src/pages/Login.tsx": {
+    "file": "assets/Login-ae07c08a.js",
+    "imports": [
+      "resources/js/src/main.tsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/Login.tsx"
+  },
+  "resources/js/src/pages/Profile.tsx": {
+    "file": "assets/Profile-0dcba916.js",
+    "imports": [
+      "resources/js/src/main.tsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/Profile.tsx"
+  },
+  "resources/js/src/pages/Promo.tsx": {
+    "file": "assets/Promo-33cd6abc.js",
+    "imports": [
+      "resources/js/src/main.tsx",
+      "_index-8e00322f.js",
+      "_dialog-b10a86f8.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/Promo.tsx"
+  },
+  "resources/js/src/pages/Schedule.tsx": {
+    "file": "assets/Schedule-dec77dcd.js",
+    "imports": [
+      "resources/js/src/main.tsx",
+      "_index-8e00322f.js",
+      "_dialog-b10a86f8.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/Schedule.tsx"
+  },
+  "resources/js/src/pages/User.tsx": {
+    "file": "assets/User-56d81ce9.js",
+    "imports": [
+      "resources/js/src/main.tsx",
+      "_index-8e00322f.js",
+      "_dialog-b10a86f8.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/src/pages/User.tsx"
+  }
+}
